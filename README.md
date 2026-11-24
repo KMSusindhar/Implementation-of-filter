@@ -81,7 +81,7 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-iv)Using Median Filter
+iv)Using Median Filters
 ```
 median=cv2.medianBlur(image2,13)
 plt.figure(figsize=(9,9))
